@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pesoagaston.github.io/static/css/main.93509abc.css",
-    "main.js": "/pesoagaston.github.io/static/js/main.fa418e30.js",
-    "index.html": "/pesoagaston.github.io/index.html",
-    "main.93509abc.css.map": "/pesoagaston.github.io/static/css/main.93509abc.css.map",
-    "main.fa418e30.js.map": "/pesoagaston.github.io/static/js/main.fa418e30.js.map"
+    "main.css": "/static/css/main.93509abc.css",
+    "main.js": "/static/js/main.76c0fdb5.js",
+    "index.html": "/index.html",
+    "main.93509abc.css.map": "/static/css/main.93509abc.css.map",
+    "main.76c0fdb5.js.map": "/static/js/main.76c0fdb5.js.map"
   },
   "entrypoints": [
     "static/css/main.93509abc.css",
-    "static/js/main.fa418e30.js"
+    "static/js/main.76c0fdb5.js"
   ]
 }
